@@ -1,0 +1,51 @@
+.big-box{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-box{
+    width: 50%;
+    border: 2px blue solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.line{
+    border: 2px blue solid;
+    width: 60%
+
+}
+
+.up{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.down{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+
+.arrow-right{
+    margin-left: 15px;
+    border: 1px blue solid;
+}
+
+.arrow-left{
+    margin-right: 15px;
+    border: 1px blue solid;
+}
+
+.img{
+    height: 200px;
+    width: 250px;
+    margin-bottom: 25px;
+}
